@@ -1,0 +1,12 @@
+input {
+    width: 100%; 
+    padding: 12px 20px; 
+    margin: 8px 0px; 
+    display: inline-block; 
+    border: 2px solid #ccc; 
+    box-sizing: border-box; 
+}
+
+label {
+    margin-left: 12px
+}

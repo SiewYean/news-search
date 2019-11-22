@@ -1,0 +1,18 @@
+button {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+    display: block;
+    right:50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+a.btn {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+    display: block;
+    right: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,12 @@
+.card {
+    /* height: 100vh; */
+}
+p.card-text {
+    max-height: 50vh;
+    margin-bottom: 5%;
+}
+.card-img-top {
+    max-width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
